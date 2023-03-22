@@ -7,9 +7,9 @@
 # 🚀 Things i did for fun:
 
 <ul>
-<li><a href="https://space-x--space-x-radule.netlify.app/">Space-X flights</a></li>
-<li><a href="https://8-queen-radule.netlify.app/">8 queen solver</a></li>
-<li><a href="https://interactive-map-radule.netlify.app/">Interactive map of Montenegro</a></li>
+<li><a href="https://space-x--space-x-radule.netlify.app/" target="_blank" >Space-X flights</a></li>
+<li><a href="https://8-queen-radule.netlify.app/" target="_blank">8 queen solver</a></li>
+<li><a href="https://interactive-map-radule.netlify.app/" target="_blank">Interactive map of Montenegro</a></li>
 </ul>
 
 # 🌐 Socials:
